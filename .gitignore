@@ -36,3 +36,7 @@ yarn-error.log*
 # Misc
 .DS_Store
 *.pem
+
+# Ignore inner git file
+apps/stalor-auth/.git
+apps/stalor-email-service/.git
